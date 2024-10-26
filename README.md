@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-👨‍💻 Tecnologias e Ferramentas
+## 👨‍💻 Tecnologias e Ferramentas
   - Node.js
   - React
   - PostgreSQL
-📬 Formas de contato
+    
+## 📬 Formas de contato
   - E-mail: matheusfelipem2712@gmail.com
 <img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">
 
