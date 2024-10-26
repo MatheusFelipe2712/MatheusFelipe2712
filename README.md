@@ -4,6 +4,7 @@
   - Node.js
   - React
   - PostgreSQL
+  - Express
     
 ## 📬 Formas de contato
   - E-mail: matheusfelipem2712@gmail.com
