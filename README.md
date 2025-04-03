@@ -5,8 +5,7 @@
 
     
   <div style="display: inline_block" align="center"><br>
-     <img src="https://skillicons.dev/icons?i=nodejs,react,docker,postgresql
-       " />
+     <img src="https://skillicons.dev/icons?i=nodejs,react,docker,postgresql" />
   
 
 </div>
