@@ -18,8 +18,7 @@ Atualmente, estudo **Análise e Desenvolvimento de Sistemas** pela **Unigrande**
 
 ## 📬 Contato
 
-📧 **E-mail:** matheusfelipe.dev@gmail.com  
-💼 **LinkedIn:** [Matheus Felipe](https://www.linkedin.com/in/)  
+📧 **E-mail:** matheusfelipem2704@gmail.com
 🐙 **GitHub:** [@MatheusFelipe2712](https://github.com/MatheusFelipe2712)
 
     
