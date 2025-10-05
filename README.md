@@ -20,13 +20,14 @@ Atualmente, estudo **Análise e Desenvolvimento de Sistemas** pela **Unigrande**
 
 📧 **E-mail:** matheusfelipem2704@gmail.com
 🐙 **GitHub:** [@MatheusFelipe2712](https://github.com/MatheusFelipe2712)
+---
 
-    
-  <div style="display: inline_block" align="center"><br>
-     <img src="https://skillicons.dev/icons?i=nodejs,react,docker,postgresql" />
-  
-
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 
