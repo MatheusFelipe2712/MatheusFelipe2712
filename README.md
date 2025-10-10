@@ -8,11 +8,9 @@ Atualmente, estudo **Análise e Desenvolvimento de Sistemas** pela **Unigrande**
 ---
 
 ## 💡 Sobre mim
--  Estudante de **Análise e Desenvolvimento de Sistemas**[]
+-  Estudante de **Análise e Desenvolvimento de Sistemas**
 -  Foco em **Node.js**, **React.js**, **PostgreSQL** e **Docker**
 -  Experiência com **APIs RESTful** e integração de sistemas
--  Sempre buscando escrever código **limpo, performático e escalável**
--  Sonho em trabalhar com projetos que impactem positivamente o mundo através da tecnologia
 
 ## 🧰 Tecnologias que utilizo
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
