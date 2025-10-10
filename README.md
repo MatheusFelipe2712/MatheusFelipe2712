@@ -8,7 +8,7 @@ Atualmente, estudo **Análise e Desenvolvimento de Sistemas** pela **Unigrande**
 ---
 
 ## 💡 Sobre mim
--  Estudante de **Análise e Desenvolvimento de Sistemas** – [Unigrande](https://www.unigrande.edu.br/)
+-  Estudante de **Análise e Desenvolvimento de Sistemas**[]
 -  Foco em **Node.js**, **React.js**, **PostgreSQL** e **Docker**
 -  Experiência com **APIs RESTful** e integração de sistemas
 -  Sempre buscando escrever código **limpo, performático e escalável**
